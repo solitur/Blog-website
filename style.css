@@ -1,0 +1,37 @@
+ul {
+    width: 1300px;
+    height: 50px;
+    margin: auto;
+    background-color: rgb(69, 216, 201);
+    border: 1px solid rgb(148, 130, 130);
+}
+
+ul li {
+
+    padding: 12px;
+    display: inline-block;
+    list-style-type: none;
+
+    font-size:30px;
+    font-family: sans-serif;
+}
+
+li a {
+    text-decoration: none;
+    color:whitesmoke;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(178, 28, 178)
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
